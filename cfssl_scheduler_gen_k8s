@@ -12,7 +12,7 @@ cat > kube-scheduler-csr.json << EOF
       "C": "US",
       "L": "Portland",
       "O": "system:kube-scheduler",
-      "OU": "Kubernetes The Hard Way",
+      "OU": "ZhulianG",
       "ST": "Oregon"
     }
   ]
